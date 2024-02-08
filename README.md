@@ -1,6 +1,6 @@
 # Fronend Flutter
 
-https://github.com/ozaka001/WORKALL_SCHOOL
+https://github.com/ozaka001/WORKALL2_SCHOOL
 
 # guideline
 start project
