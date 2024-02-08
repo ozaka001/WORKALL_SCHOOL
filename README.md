@@ -1,4 +1,8 @@
 
+## ***ผู้จัดทำ***
+
+ดีต้า ต้าศุภกรสงเคราะห์ 010 ป.ตรี 1 สาขา เทคโนโลยีสารสนเทศฯ
+
 # *Fronend Flutter*
 
 > [https://github.com/ozaka001/WORKALL2_SCHOOL]
